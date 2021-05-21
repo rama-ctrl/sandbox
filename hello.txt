@@ -1,0 +1,1 @@
+This message is appended from terminal. This is second update in file and it should be appended in last of the files, not ovewrite
